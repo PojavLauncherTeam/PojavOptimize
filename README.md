@@ -1,6 +1,6 @@
 # PojavOptimize
 
-A collection of mods to improve the performance and user experience of PojavLauncher. This repository was originally assembled by Discord moderator Chuck_Norris_ as a response to low performance on certain devices, as well as goodies in other areas. This modpack requires **Fabric 1.16.5** to be installed on the client machine! 
+A collection of mods to improve the performance and user experience of PojavLauncher. This repository was originally assembled by Discord moderator Chuck_Norris_ as a response to low performance on certain devices, as well as goodies in other areas.  
 
 Loads in as little as 1 minute and 3 seconds from clicking play to in-world!
 
@@ -38,5 +38,7 @@ The mods in this pack include:
 | Smoothboot | Smooth Boot - Optimize Minecraft loading performance to be smoother on all end systems | https://www.curseforge.com/minecraft/mc-mods/smooth-boot |
 | Sodium | Changes minecrafts rendering engine to improve performance | https://www.curseforge.com/minecraft/mc-mods/sodium |
 | Starlight | Fabric mod for completely rewriting the vanilla light engine. (replaces phosphor as you get more FPS | https://github.com/Spottedleaf/Starlight |
+
+This list may differentiate depending on the version used.
 
 Based off fabulously optimized found here: https://www.curseforge.com/minecraft/modpacks/fabulously-optimized with tweaks and additions made by Chuck_Norris_, All Configs made by robotkoer, creator of fabulously optimized, implemented in this modpack to Simplfy installation.
