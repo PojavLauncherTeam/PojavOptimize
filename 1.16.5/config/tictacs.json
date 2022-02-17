@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "thread_count": 2,
+  "feature_generation_radius": 2,
+  "debug": {
+    "chunk_levels": false,
+    "chunk_map": false
+  },
+  "max_view_distance": 32
+}

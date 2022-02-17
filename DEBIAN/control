@@ -1,0 +1,13 @@
+Package: net.kdt.pojavoptimize-1165
+Architecture: iphoneos-arm
+Version: 3.0
+Section: PojavLauncher Addons
+Maintainer: Adam Tunnic <tunnic.adam@gmail.com>
+Depends: firmware (>=12.0), net.kdt.pojavlauncher.release | net.kdt.pojavlauncher.release-rootless | net.kdt.pojavlauncher.development | net.kdt.pojavlauncher.development-rootless
+Conflicts: com.doregon.pojavoptimize, net.kdt.pojavoptimize-1171
+Replaces: com.doregon.pojavoptimize
+Description: A collection of mods to improve the performance of PojavLauncher, based off of Fabulously Optimized.
+Author: Adam Tunnic <tunnic.adam@gmail.com>
+Depiction: https://doregon.github.io/json-webviews/?json=https://repo.doregon.gq/depictions/natives/net.kdt.pojavoptimize.json&name=PojavOptimize&dev=Adam%20Tunnic&section=Games
+SileoDepiction: https://repo.doregon.gq/depictions/natives/net.kdt.pojavoptimize-1165.json
+Name: PojavOptimize (1.16.5)

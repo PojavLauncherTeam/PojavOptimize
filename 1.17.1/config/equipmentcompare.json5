@@ -1,0 +1,18 @@
+{
+	// The text shown on the badge above equipped tooltips.
+	"badgeText": "Equipped",
+	// The color of the text shown on the badge above equipped tooltips.
+	"badgeTextColor": 4294967295,
+	// The background color of the "equipped" badge.
+	"badgeBackgroundColor": 4027584512,
+	// The start border color of the "equipped" badge.
+	"badgeBorderStartColor": 3500839187,
+	// The end border color of the "equipped" badge.
+	"badgeBorderEndColor": 1623360778,
+	// If the comparison tooltip should show by default (pressing bound key hides).
+	"defaultOn": false,
+	// If tool comparisons should compare only the same types of tools (can't compare a sword to an axe, for example).
+	"strict": false,
+	// Blacklist of items to show comparisons for.  Add item IDs to prevent them from being compared when hovered over or equipped.
+	"blacklist": []
+}

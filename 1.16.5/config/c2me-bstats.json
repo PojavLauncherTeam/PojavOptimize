@@ -1,0 +1,13 @@
+{
+  "_notice1": "bStats (https://bStats.org) collects some basic information for plugin authors, like how",
+  "_notice2": "many people use their plugin and their total player count. It\u0027s recommended to keep bStats",
+  "_notice3": "enabled, but if you\u0027re not comfortable with this, you can turn this setting off. There is no",
+  "_notice4": "performance penalty associated with having metrics enabled, and data sent to bStats is fully",
+  "_notice5": "anonymous.",
+  "_notice6": "C2ME-fabric bStats page: https://bstats.org/plugin/bukkit/C2ME-fabric/10514",
+  "serverUuid": "0b7aa93f-b9ca-443b-8524-b7819473982a",
+  "enabled": true,
+  "logFailedRequests": false,
+  "logSentData": false,
+  "logResponseStatusText": false
+}

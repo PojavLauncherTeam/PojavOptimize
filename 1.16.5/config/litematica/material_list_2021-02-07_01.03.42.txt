@@ -1,0 +1,55 @@
++-----------------------+-------+---------+-----------+
+| Material List for placement 'mansion'               |
++-----------------------+-------+---------+-----------+
+| Item                  | Total | Missing | Available |
++-----------------------+-------+---------+-----------+
+| Quartz Slab           |   670 |     670 |         0 |
+| Glass Pane            |   621 |     621 |         0 |
+| Stone Brick Stairs    |   592 |     592 |         0 |
+| Smooth Stone Slab     |   497 |     497 |         0 |
+| Gray Wool             |   478 |     478 |         0 |
+| Cobblestone Wall      |   464 |     464 |         0 |
+| Spruce Slab           |   411 |     411 |         0 |
+| Iron Bars             |   405 |     405 |         0 |
+| Birch Planks          |   400 |     400 |         0 |
+| Oak Log               |   395 |     395 |         0 |
+| Oak Trapdoor          |   384 |     384 |         0 |
+| Glass                 |   363 |     363 |         0 |
+| Torch                 |   349 |     349 |         0 |
+| Quartz Pillar         |   308 |     308 |         0 |
+| Oxeye Daisy           |   285 |     285 |         0 |
+| Spruce Planks         |   239 |     239 |         0 |
+| Stone Brick Slab      |   227 |     227 |         0 |
+| Orange Tulip          |   170 |     170 |         0 |
+| Red Carpet            |   170 |     170 |         0 |
+| Light Blue Terracotta |   136 |     136 |         0 |
+| Oak Stairs            |    96 |      96 |         0 |
+| Oak Slab              |    93 |      93 |         0 |
+| Red Tulip             |    90 |      90 |         0 |
+| Oak Fence Gate        |    52 |      52 |         0 |
+| Block of Quartz       |    49 |      49 |         0 |
+| Anvil                 |    43 |      43 |         0 |
+| Blue Orchid           |    36 |      36 |         0 |
+| White Tulip           |    28 |      28 |         0 |
+| Chest                 |    26 |      26 |         0 |
+| Ladder                |    26 |      26 |         0 |
+| Glowstone             |    24 |      24 |         0 |
+| Chiseled Stone Bricks |    18 |      18 |         0 |
+| Oak Door              |    16 |      16 |         0 |
+| White Carpet          |    16 |      16 |         0 |
+| Stone Button          |    10 |      10 |         0 |
+| Cobblestone Stairs    |     9 |       9 |         0 |
+| Lilac                 |     8 |       8 |         0 |
+| Water Bucket          |     8 |       8 |         0 |
+| Oak Button            |     7 |       7 |         0 |
+| Red Wool              |     7 |       7 |         0 |
+| Flower Pot            |     6 |       6 |         0 |
+| Iron Door             |     6 |       6 |         0 |
+| Cobblestone Slab      |     5 |       5 |         0 |
+| Hopper                |     5 |       5 |         0 |
+| Chiseled Quartz Block |     4 |       4 |         0 |
+| Block of Diamond      |     1 |       1 |         0 |
+| Red Bed               |     1 |       1 |         0 |
++-----------------------+-------+---------+-----------+
+| Item                  | Total | Missing | Available |
++-----------------------+-------+---------+-----------+

@@ -1,0 +1,20 @@
+{
+    "worldedit.expand.description.vert": "Mở rộng khu lựa chọn theo chiều dọc tới giới hạn của thế giới.",
+    "worldedit.expand.expanded": "Khu vực đã mở rộng {0} block",
+    "worldedit.expand.expanded.vert": "Khu vực đẫ mở rộng {0} block (từ trên xuống).",
+    "worldedit.biomeinfo.lineofsight": "Quần xã tại điểm ngắm: {0}",
+    "worldedit.biomeinfo.position": "Các quần xã tại vị trí của bạn: {0}",
+    "worldedit.biomeinfo.selection": "Các quần xã tại vị trí đã chọn: {0}",
+    "worldedit.brush.apply.description": "Áp dụng cọ, áp dụng chức năng vào mỗi block",
+    "worldedit.brush.apply.radius": "Kích thước của cọ",
+    "worldedit.brush.apply.shape": "Hình dạng của khu vực",
+    "worldedit.brush.apply.type": "Kiểu chổi để dùng",
+    "worldedit.brush.paint.size": "Kích thước của cọ",
+    "worldedit.brush.paint.shape": "Hình dạng của khu vực",
+    "worldedit.brush.paint.type": "Kiểu chổi để dùng",
+    "worldedit.fast.disabled": "Đã bật chế độ nhanh.",
+    "worldedit.fast.enabled": "Đã bật chế độ nhanh. Ánh sáng ở chunk bị ảnh hưởng có thể bị sai và/hoặc bạn cần phải đăng nhập lại để xem sự thay đổi.",
+    "worldedit.fast.disabled.already": "Chế độ nhanh đã bị tắt rồi.",
+    "worldedit.fast.enabled.already": "Chế độ nhanh đã bật rồi.",
+    "worldedit.operation.deform.expression": "đã bị biến dạng bởi {0}"
+}

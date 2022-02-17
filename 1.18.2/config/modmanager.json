@@ -1,0 +1,6 @@
+{
+    "defaultProvider": "modrinth",
+    "updateChannel": "ALL",
+    "hidden": [
+    ]
+}
