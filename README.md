@@ -1,6 +1,9 @@
 # PojavOptimize
 
 A collection of mods to improve the performance and user experience of PojavLauncher. This repository was originally assembled by Discord moderator Chuck_Norris_ as a response to low performance on certain devices, as well as goodies in other areas.  
+"***Some mods might not work on some version of minecraft***"
+
+**Make sure you have [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) or [Fabric](https://fabricmc.net/use/installer/) Installed**
 
 Loads in as little as 1 minute and 3 seconds from clicking play to in-world!
 
